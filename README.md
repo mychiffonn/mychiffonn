@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Chiffon (Tra My) Nguyen </h1>
-<h3 align="center">Research Engineer</h3>
 <br>
 
 - 🎯 I have a special interest in Natural Language Processing and want to pursue PhD in this field
