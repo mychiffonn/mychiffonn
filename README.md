@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Chiffon (Tra My) Nguyen </h1>
 <br>
 
-- 🤝 I'm collaborating with [TUM](https://www.tum.de/en/) PhD students on 3D object detection at BMW (Munich) 
+- 🤝 I'm researching 3D object detection in point clouds
 - 🌱 I’m currently learning: **PyTorch, Large Language Models**. See [capstone](https://github.com/chiffonng/capstone) for progress.
-- 🎯 I have a special interest in Natural Language Processing and want to pursue PhD in this field
-- 💼 I'm looking for a research internship in NLP as a rising **senior** (undergraduate level)
+- 🎯 I have an interest in Natural Language Processing and want to pursue PhD in this field
+- 💼 I'm looking for collaboration in NLP research and open-source projects in Python or TypeScript.
+- I ❤️ open-source. I've been using many open-source projects and looking to contribute back to some of them.
 
-For more details, visit my website: https://chiffonng.github.io/, specifically my blog.
+For more details, visit my website: https://chiffonng.github.io/. I also start blogging recently
 
-Or see my repositories. I try to code every day.
+![Chiffon's Top-Language-Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chiffonng&layout=compact&hide=Jupyter%20Notebook&langs_count=10&exclude_repo=learn-in-public)
