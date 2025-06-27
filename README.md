@@ -8,6 +8,6 @@
 - I ❤️ open-source. I've been using many open-source projects and looking to contribute back to some of them.
 - I'm building my website! Stay tuned
 
-![Chiffon's Top-Language-Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chiffonng&layout=compact&theme=onedark&hide=Jupyter%20Notebook&langs_count=10)
+![Chiffon's Top-Language-Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chiffonng&layout=compact&theme=onedark&hide=Jupyter%20Notebook,TeX&langs_count=10)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiffonng&theme=onedark&rank_icon=percentile)
