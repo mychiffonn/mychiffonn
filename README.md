@@ -39,5 +39,8 @@ For more information, visit [my website at mychiffonn.com](https://mychiffonn.co
 
 <p>
   <img src="https://github-stats-extended.vercel.app/api?username=mychiffonn&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&rank_icon=percentile&hide_border=true" alt="Chiffon's GitHub statistics" height="280">
+</p>
+
+<p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mychiffonn&layout=compact&theme=onedark&hide=Jupyter%20Notebook,TeX&langs_count=10&hide_border=true" alt="Chiffon's top languages" height="280">
 </p>
