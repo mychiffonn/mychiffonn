@@ -1,32 +1,43 @@
-<h1 align="center">Hi, I'm My (Chiffon) Nguyen </h1>
+<h1 align="center">Hi, I'm My (Chiffon) Nguyen</h1>
 <br>
 
-I'm an AI researcher interested in researching and building **human–AI systems** that **reflect and support diversity of human patterns**:
+I research **current and future AI that are safe and empowering for more people**.
 
-- languages and culture: multilingual and multicultural AI
-- values: AI alignment ([pluralistic alignment](https://arxiv.org/pdf/2402.05070), cooperative AI, holistic evaluation) 
-- safety: scalable oversight, control
-- interactions with AI, others, and society: human-AI collaboration, social intelligence, social impacts of AI 
+My current interests include:
 
-For more updated information, [visit my website at mychiffonn.com](https://mychiffonn.com/) (2 n's) or see [my CV](https://mychiffonn.com/doc/cv.pdf)
+- making AI go well for all
+- developing AI for low-resource languages and cultures
+- designing cooperative AI for humans and other AI agents
+- using AI for good in learning sciences, climate science, and knowledge work
 
-## Current projects
+My technical work focuses on data and [evaluation](https://aimslab.stanford.edu/textbook/) to make grounded, predictive, and specific claims about AI capability and safety.
 
-### Research
+I'm doing research for [Lida Safety](https://www.lidasafety.org/), and I contribute to community research with [Cohere Labs Community](https://cohere.com/research) and [BenchFlow](https://www.benchflow.ai/). Recent work includes [SEATauBench](https://arxiv.org/abs/2606.28715) and [chain-of-thought monitorability](https://github.com/yoenoo/algoverse_nacm).
 
-- AI Alignment with Eyon Jang (MATS 8.0 scholar)
-- HTML main content extraction, benchmarking human annotation vs LLM annotation with UEdinburgh Research Scientist
+I'm seeking a **research Master's in CS, AI, or NLP for Fall 2027** and am open to research collaborations.
 
-### Web
+For more information, visit [my website at mychiffonn.com](https://mychiffonn.com/) or see my [CV](https://mychiffonn.com/doc/My_Chiffon_Nguyen_CV.pdf).
 
-- [SEACrowd](https://seacrowd.org) with Jekyll and Bootstrap
-- [Portfolio theme for academic researchers](https://github.com/mychiffonn/website) with Astro.js, TailwindCSS, and shadcn/ui
-- Taking [CodePath Advanced Web Development Web103](https://www.codepath.org/courses/web-development) course, building full-stack websites with modern tech stacks React.js, Express.js, PostgreSQL, Railway, Render
+## Selected projects
+
+- [SEATauBench](https://arxiv.org/abs/2606.28715): Extended Tau2-Bench for low-resource Southeast Asian languages and localized agentic evaluation.
+- [GPS-Bench](https://mychiffonn.com/projects): Evidence-grounded benchmark and simulation framework for forecasting AI-governance policy outcomes.
+- [Multicultural Riddles Benchmarking](https://github.com/Cohere-Labs-Community/RiddlesBenchmarking): Analysis of LLM factuality, hallucination, topic patterns, and cross-cultural reasoning failures.
+- [BenchFlow](https://www.benchflow.ai/): Open-source runtime environment for multi-turn AI agent research.
+- [MyScholar](https://astro-scholar.pages.dev/): Open-source Astro theme for academic research portfolios, publications, projects, and blogs.
+
+## Connect
+
+- [Google Scholar](https://scholar.google.com/citations?user=a25a-rUAAAAJ)
+- [ORCID](https://orcid.org/0009-0002-5787-3948)
+- [OpenReview](https://openreview.net/profile?id=~My_Chiffon_Nguyen1)
+- [X](https://x.com/mychiffonn)
 
 ## Github Stats
 
 [![wakatime](https://wakatime.com/badge/user/8256474a-d9a4-40f0-8879-659cd7b79a98.svg)](https://wakatime.com/@8256474a-d9a4-40f0-8879-659cd7b79a98)
 
-![Chiffon's Top-Language-Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mychiffonn&layout=compact&theme=onedark&hide=Jupyter%20Notebook,TeX&langs_count=10)
-
-![Chiffon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mychiffonn&theme=onedark&rank_icon=percentile)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mychiffonn&layout=compact&theme=onedark&hide=Jupyter%20Notebook,TeX&langs_count=10&hide_border=true" alt="Chiffon's top languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=mychiffonn&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&rank_icon=percentile&hide_border=true" alt="Chiffon's GitHub statistics" height="180">
+</p>
