@@ -38,6 +38,6 @@ For more information, visit [my website at mychiffonn.com](https://mychiffonn.co
 [![wakatime](https://wakatime.com/badge/user/8256474a-d9a4-40f0-8879-659cd7b79a98.svg)](https://wakatime.com/@8256474a-d9a4-40f0-8879-659cd7b79a98)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mychiffonn&layout=compact&theme=onedark&hide=Jupyter%20Notebook,TeX&langs_count=10&hide_border=true" alt="Chiffon's top languages" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=mychiffonn&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&rank_icon=percentile&hide_border=true" alt="Chiffon's GitHub statistics" height="180">
+  <img src="https://ghstats.dev/api/card?username=mychiffonn&theme=midnight&hide_border=true&show_icons=true" alt="Chiffon's GitHub statistics" height="280">
+  <img src="https://ghstats.dev/api/langs?username=mychiffonn&theme=midnight&layout=compact&max_langs=10&hide_border=true" alt="Chiffon's top languages" height="280">
 </p>
